@@ -40,4 +40,13 @@
         android:layout_marginEnd="16dp"
         style="@style/mdtp_ActionButton.Text"
         android:text="@string/mdtp_ok" />
+     
+    <Button
+        android:id="@+id/mdtp_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
+        style="@style/mdtp_ActionButton.Text"
+        android:text="@string/mdtp_next" />
 </LinearLayout>
